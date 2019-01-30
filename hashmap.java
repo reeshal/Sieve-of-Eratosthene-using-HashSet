@@ -2,7 +2,6 @@ import java.util.HashMap;
 import java.util.Map;
 import java.util.Scanner;
 
-
 public class hashmap {
 
   public static void main(String[] args) {
@@ -31,12 +30,6 @@ public class hashmap {
          if(prices>mostexpensive)
            mostexpensive=prices;
       }
-      System.out.println("The most expensive price is "+ mostexpensive);
-      
-      
-      
-      
-      
+      System.out.println("The most expensive price is "+ mostexpensive)      
   }
-
 }
