@@ -1,5 +1,3 @@
-package sieveo;
-
 import java.util.HashSet;
 public class sievehash {
 
